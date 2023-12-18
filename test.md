@@ -15,4 +15,7 @@ A starter program for writing JavaScript games.
     keys are pressed and will move the ball element
     accordingly.
 
-### Test
+# JavaScript All-In-One for Dummies
+
+I'm learning JavaScript, React, Vue, Svelte, and Node
+from JavaScript All-In-One for Dummies by Chris Minnick
